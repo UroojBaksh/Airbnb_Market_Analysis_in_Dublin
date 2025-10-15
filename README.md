@@ -386,7 +386,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Real-time dashboard with API integration
 - [ ] Automated reporting via email
 - [ ] Streamlit web application deployment
-
 ---
 
 **⭐ If you found this project helpful, please consider giving it a star!**
