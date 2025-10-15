@@ -180,7 +180,7 @@ jupyter notebook notebooks/exploratory_analysis.ipynb
 ![Executive Dashboard](dashboards/executive_dashboard.png)
 *Key performance indicators and conversion funnel*
 
-![Gap Analysis](link-to-screenshot-2)
+![Gap Analysis](dashboards/gap_analysis.png)
 *Supply-demand gaps by trip length showing €2M+ opportunity*
 
 ![Feature Importance](dashboards/feature_importance.png)
