@@ -393,28 +393,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *Last Updated: 10/14/25*
 ```
-
----
-
-## 🎨 **Customization Checklist:**
-
-Before committing, replace these:
-```
-□ YOUR_USERNAME → Your GitHub username
-□ YOUR_LOOKER_STUDIO_LINK_HERE → Your actual Looker link
-□ your.email@example.com → Your email
-□ YOUR_LINKEDIN → Your LinkedIn profile
-□ YOUR_PORTFOLIO → Your portfolio website
-□ Add screenshots (optional but recommended)
-□ Add LICENSE file (MIT recommended)
-□ Update "Last Updated" date
-□ Add your name in Contact section
-```
-
----
-
-
-   
-   # Output
-   output/*.csv
-   *.log
