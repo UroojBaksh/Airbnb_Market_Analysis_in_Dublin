@@ -112,7 +112,7 @@ pip package manager
 
 1. **Clone the repository**
 ```bash
-   git clone https://github.com/YOUR_USERNAME/airbnb-dublin-analysis.git
+   git clone https://github.com/UroojBaksh/airbnb-dublin-analysis.git
    cd airbnb-dublin-analysis
 ```
 
@@ -170,7 +170,7 @@ jupyter notebook notebooks/exploratory_analysis.ipynb
 
 ### Interactive Dashboards
 
-1. **[Executive Overview](YOUR_LOOKER_LINK)** - High-level KPIs and trends
+1. **[Executive Overview]=(https://lookerstudio.google.com/s/qjRaCsx5Lu8)** - High-level KPIs and trends
 2. **Supply-Demand Gap Analysis** - Revenue opportunity identification
 3. **Host Performance Metrics** - Benchmarking and optimization
 4. **Temporal Patterns** - Seasonal and daily trends
