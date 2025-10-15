@@ -1,0 +1,95 @@
+
+================================================================================
+                AIRBNB DUBLIN MARKET ANALYSIS - EXECUTIVE SUMMARY
+================================================================================
+
+Generated: 2025-10-09 16:22:43
+
+📊 KEY PERFORMANCE INDICATORS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Total Searches:                       35,737
+Total Inquiries:                       7,823
+Total Bookings:                        2,174
+
+Reply Rate:                            92.3%
+Acceptance Rate:                       46.4%
+Booking Rate:                          27.8%
+
+Average Response Time:                9.7 hours
+Median Nights Searched:                    3
+Median Nights Booked:                      3
+
+
+🎯 TOP SUPPLY-DEMAND GAPS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+               searches  bookings   gap  gap_pct  booking_conversion
+nights_bucket                                                       
+1-2 nights         8676       900  7776     89.6                10.4
+3-5 nights         9503      1022  8481     89.2                10.8
+6-14 nights        3603       213  3390     94.1                 5.9
+15+ nights         2101        39  2062     98.1                 1.9
+
+
+🤖 MACHINE LEARNING MODEL PERFORMANCE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Model Type:                  XGBoost Classifier
+ROC-AUC Score:                         0.874
+Training Samples:                      6,258
+Test Samples:                          1,565
+
+
+📈 GENERATED OUTPUTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Interactive Dashboards:
+  ✓ dashboards/executive_dashboard.html
+  ✓ dashboards/gap_analysis.html
+  ✓ dashboards/host_performance.html
+  ✓ dashboards/temporal_analysis.html
+  ✓ dashboards/feature_importance.html
+  ✓ dashboards/model_performance.html
+
+Summary Report:
+  ✓ output/executive_summary.txt
+
+
+💡 KEY RECOMMENDATIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. IMPROVE HOST RESPONSIVENESS
+   - Current reply rate: 92.3%
+   - Target: >90% within 1 hour
+   - Impact: Could increase bookings by -178
+
+2. ADDRESS TRIP LENGTH GAPS
+   - High demand for 3-5 night stays
+   - Low host acceptance for these durations
+   - Recommendation: Incentivize hosts to accept mid-length stays
+
+3. OPTIMIZE PRICING STRATEGY
+   - Analyze price sensitivity by segment
+   - Dynamic pricing based on demand patterns
+   - Focus on high-conversion segments
+
+4. RECRUIT TARGETED HOSTS
+   - Focus on under-supplied neighborhoods
+   - Prioritize property types in high demand
+   - Estimated revenue opportunity: €2,170,900
+
+
+📊 NEXT STEPS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Review interactive dashboards in your browser
+2. Share insights with stakeholders
+3. Implement top 3 recommendations
+4. Monitor KPIs monthly
+5. Retrain ML model quarterly with new data
+
+
+================================================================================
+                         ANALYSIS COMPLETE
+================================================================================
