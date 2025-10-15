@@ -7,7 +7,7 @@
 [![Plotly](https://img.shields.io/badge/Plotly-5.0+-orange.svg)](https://plotly.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[📊 View Live Dashboard][(YOUR_LOOKER_STUDIO_LINK_HERE)](https://lookerstudio.google.com/s/qjRaCsx5Lu8) | [📄 Read Full Analysis](#key-insights)
+[📊 View Live Dashboard](https://lookerstudio.google.com/s/qjRaCsx5Lu8) | [📄 Read Full Analysis](#key-insights)
 
 ---
 
@@ -177,7 +177,7 @@ jupyter notebook notebooks/exploratory_analysis.ipynb
 
 ### Sample Visualizations
 
-![Executive Dashboard]dashboards/executive_dashboard.png
+![Executive Dashboard](dashboards/executive_dashboard.png)
 *Key performance indicators and conversion funnel*
 
 ![Gap Analysis](link-to-screenshot-2)
