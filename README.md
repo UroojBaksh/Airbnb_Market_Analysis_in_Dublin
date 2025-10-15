@@ -177,7 +177,7 @@ jupyter notebook notebooks/exploratory_analysis.ipynb
 
 ### Sample Visualizations
 
-![Executive Dashboard](link-to-screenshot-1)
+![Executive Dashboard]dashboards/executive_dashboard.png
 *Key performance indicators and conversion funnel*
 
 ![Gap Analysis](link-to-screenshot-2)
