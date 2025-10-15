@@ -183,7 +183,7 @@ jupyter notebook notebooks/exploratory_analysis.ipynb
 ![Gap Analysis](link-to-screenshot-2)
 *Supply-demand gaps by trip length showing €2M+ opportunity*
 
-![Host Performance](link-to-screenshot-3)
+![Feature Importance](dashboards/feature_importance.png)
 *Response time impact on acceptance rates*
 
 ---
